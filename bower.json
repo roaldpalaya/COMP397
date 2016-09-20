@@ -1,0 +1,17 @@
+{
+  "name": "Comp 397_boilerPlate",
+  "authors": [
+    "roaldpalaya <roaldrussel@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
